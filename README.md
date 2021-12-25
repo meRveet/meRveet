@@ -1,7 +1,9 @@
 # Welcome my Github Page! (A work in progress)
 
 ## 👋 Hi, I’m Mervin!
-Over the last two years, I have grown interest in Data Analytics and started exploring into the fuctions of Data Science and how it works. Eventually, I took on courses on Coursera by John Hopkins and found myself enjoying it very much! I am trained as a nutrionist and social worker by professional. During the course of my work, I find myself looknig a lot into areas that related between public health and social work. Currently, I'm looking to further enhance my skills in Data Science and at the same time picking up knowledge in Machine Learnign and Deep Learning. 
+Over the last two years, I have grown interest in Data Analytics and started exploring into the functions of Data Science and how it works. Eventually, I took on courses on Coursera by John Hopkins and found myself enjoying it very much! I am trained as a nutritionist and social worker by professional. During my work, I find myself looking a lot into areas that related between public health and social work. Currently, I'm looking to further enhance my skills in Data Science and at the same time picking up knowledge in Machine Learning and Deep Learning. Some of the mini projects that I have done can be found in over at these two repositories, (RProjects)[ https://github.com/meRveet/RProjects] and (pythonprojects) [https://github.com/meRveet/pythonprojects]. 
+
+* Some of these are ongoing projects that I do to keep myself engaged and not lose the knowledge gained from the courses. At the same time, applying the skills to real world applications. They are definitely not the perfect analysis conduct but I looking forward to keep improving my analytical skills overtime. 
 
 ## Things I Do Out of Work
 ☕️ | Drinking coffee! Over the course of eight years, I've picked up the science of making great coffee. Currently, I brew and roast my own coffee from bean to cup. <br><br>
