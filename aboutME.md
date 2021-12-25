@@ -11,7 +11,7 @@ Over the last two years, I have grown interest in Data Analytics and started exp
 📖 | Picking up Tech Knowledge. I have inquisitive nature, and I enjoy reading on tech related information to see how I can utilise them to benefit my workflow. This is also how my interest in data analytics has began. I realised I am very comfortable with programming languages and to understand and utilise them for various purposes. <br>
 
 ## Feel free to reach out!
-📫 | If you are interest to find out more about what I do, I can be reach at mervintee@gmail.com or you can view my cv at [here]https://github.com/merveet-personalprojects/CV/raw/master/Resume_Mervin.pdf)
+📫 | If you are interest to find out more about what I do, I can be reach at mervintee@gmail.com or you can view my cv at [here](https://github.com/merveet-personalprojects/CV/raw/master/Resume_Mervin.pdf)
 
 <!---
 meRveet/meRveet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
